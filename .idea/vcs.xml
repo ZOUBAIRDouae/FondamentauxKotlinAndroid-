@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/FondamentauxKotlinAndroid-" vcs="Git" />
+=======
+>>>>>>> f1f822ce08ebaca49fadb259c36a813329775813
   </component>
 </project>
